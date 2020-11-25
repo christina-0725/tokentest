@@ -1,2 +1,2 @@
-sh pre.sh
+sh pre.sh  
 node tokentest.js
