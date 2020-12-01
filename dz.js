@@ -21,7 +21,7 @@ for(var i=1;i<=52;i++){
 var cardsInHand = totalCards;
 
 //牌桌
-var flopCards = new Set();
+var flopCards = new Set();//公牌
 var turnCard = null, riverCard = null;
 var firstPool = 0, secondPool = 0;
 
